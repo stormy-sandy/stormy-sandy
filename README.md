@@ -1,4 +1,4 @@
-<h3 align="center">tend developer from India</h3>
+<h3 align="center">ML/AI Enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=stormy-sandy&label=Profile%20views&color=0e75b6&style=flat" alt="stormy-sandy" /> </p>
 
@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/sandy_krtiwari" target="blank"><img src="https://img.shields.io/twitter/follow/sandy_krtiwari?logo=twitter&style=for-the-badge" alt="sandy_krtiwari" /></a> </p>
 
-- 🔭 I’m currently working on **BI (SAP)**
+- 🔭 I’m currently working on **Business Intelligence and Analytics**
 
 - 🌱 I’m currently learning **Artificial Intelligence**
 
